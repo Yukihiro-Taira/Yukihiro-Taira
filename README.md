@@ -9,13 +9,13 @@
 <h2>Hi, I'm Yukihiro</h2>
 
 <p>
-  <a href="https://linkedin.com/in/max-wells-rs" target="_blank">
+  <a href="https://www.linkedin.com/in/yukihiro-taira-374248a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:maxwells.pro@proton.me">
+  <a href="mailto:YukihiroT@pm.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
-  <a href="https://rust-ui.com" target="_blank">
+  <a href="null" target="_blank">
     <img src="https://img.shields.io/badge/rust--ui.com-000000?style=for-the-badge&logo=rust&logoColor=white" />
   </a>
 </p>
