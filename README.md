@@ -49,7 +49,7 @@ Rust fullstack engineer with Video/Broadcast Enginnering experience.
 
 <h2 align="center">About me 🦀</h2>
 
-<p align="center"><b>Timezone: Europe/Paris (CET)</b></p>
+<p align="center"><b>Timezone: US-PST</b></p>
 <!--
 //In my latest project, I built [rust-ui.com](https://rust-ui.com), a component registry for fullstack Rust applications that you can copy/paste into your own codebase. Used by //thousands of developers in production.
 <!--
@@ -67,9 +67,9 @@ Rust fullstack engineer with Video/Broadcast Enginnering experience.
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,actix,wasm,tauri,sqlite,postgres" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,postgres" />
   <br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,nextjs,figma" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,nextjs,figma,photoshop,aftereffects,houdini" /><br>
 </div>
 
 
