@@ -1,4 +1,4 @@
-![MasterHead](banner-github.png)
+<!--![MasterHead](banner-github.png)-->
 
 
 
@@ -50,16 +50,16 @@ Rust fullstack engineer with Video/Broadcast Enginnering experience.
 <h2 align="center">About me 🦀</h2>
 
 <p align="center"><b>Timezone: Europe/Paris (CET)</b></p>
-
-In my latest project, I built [rust-ui.com](https://rust-ui.com), a component registry for fullstack Rust applications that you can copy/paste into your own codebase. Used by thousands of developers in production.
-
+<!--
+//In my latest project, I built [rust-ui.com](https://rust-ui.com), a component registry for fullstack Rust applications that you can copy/paste into your own codebase. Used by //thousands of developers in production.
+<!--
 🔸 Currently maintaining: Rust/UI — a component registry for fullstack Rust used by thousands of developers in production, and an icons crate with 25k+ downloads<br/>
 🔸 Specialty: Rust backend & fullstack — REST APIs, async Rust, WASM, system architecture, and large-scale codebase migrations (1.5M+ lines Java → Rust)<br/>
 🔸 Blockchain: built an NFT marketplace on Solana in Rust<br/>
 🔸 Looking to collaborate on: production Rust projects, backend systems, and open-source Rust ecosystem contributions<br/>
 🔸 Ask me about: Rust fullstack & backend architecture, migrating legacy codebases to Rust, AI agent orchestration<br/>
-🔸 Jury's Favorite — Blockchain Hackathon, Vierzon (2024)
-
+🔸 Jury's Favorite — Blockchain Hackathon, Vierzon (2024)//
+-->
 <br/>
 <hr/>
 
